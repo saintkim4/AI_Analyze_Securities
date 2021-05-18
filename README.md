@@ -1,1 +1,1 @@
-# AI_Analyze_Securities
+# AAS (AI Analyze Securities)
